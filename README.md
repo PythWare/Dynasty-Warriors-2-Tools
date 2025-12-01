@@ -3,7 +3,7 @@ These are GUI modding editors for Dynasty Warriors 2 I made, specifically for th
 
 To use these editors you will need to place them in the same directory as your Dynasty Warriors 2 game, rename your game's file to "DW2.bin", have the icon files in the Icon_Files folder, and have the background PNG files in the backgrounds folder.
 
-You need Python installed. I suggest reading the text file because it has a thorough guide on using the editors.
+You need Python installed.
 
 After you have Python installed, just double click main.py and then go from there.
 
@@ -38,3 +38,13 @@ Bodyguard Editor(supports modding what your bodyguards upgrade/level up to as th
 Mod Manager(basic mod manager, not as advanced as my Dynasty Warriors 4 Hyper Mod Manager since I don't think many people mod DW2 but if enough ppl are interested i'll build an advanced one):
 
 ![m8](https://github.com/user-attachments/assets/0f126975-8b96-4c69-833c-6a7106a625b2)
+
+Usage Terms (Non-Commercial, Personal Use Only):
+
+You may use these scripts and editors for personal, non-commercial purposes.
+
+You may not sell, monetize, or include this project in any paid product or service.
+
+You may not re-release modified versions of these scripts as your own project.
+
+This toolkit relies on assets and data from Dynasty Warriors 2, including map images which are © Koei Tecmo and/or their respective rights holders. Those assets are used here for fan-made modding tools and are not licensed for commercial use.
