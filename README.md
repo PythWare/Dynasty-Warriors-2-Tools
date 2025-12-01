@@ -13,11 +13,12 @@ Main Menu:
 
 Stage Editor(supports custom battles, image shows what's able to be edited):
 
-![m2](https://github.com/user-attachments/assets/9dfe84de-7ea7-464c-b89d-7aafdcf672da)
+![m2](https://github.com/user-attachments/assets/35718917-d78f-4c3a-936a-28a9fa449f0f)
+
 
 Coordinate Guider(gives a visual guide of where units spawn, auto marks when ran in stage editor to show current positions of units part of the battle, you can also manually type x/y coordinates or click anywhere on the minimap to get the x/y coordinates to use for modding where units spawn):
 
-![m3](https://github.com/user-attachments/assets/014ee04d-de70-4c96-a12b-ef62b42bcfb8)
+![m3](https://github.com/user-attachments/assets/5a04581e-8c44-41f3-b944-59d4ceae3de8)
 
 Unit Editor(supports modding unit data, image shows what is able to be modded):
 
