@@ -7,6 +7,8 @@ You need Python installed.
 
 After you have Python installed, just double click main.py and then go from there. Make sure when using Stage Editor, Unit Editor, and Name Editor you click the submit value button before going to a different slot so that the values you mod are saved.
 
+If you have any questions/issues then let me know on here, reddit, or the modding discord server.
+
 Main Menu:
 
 ![m1](https://github.com/user-attachments/assets/ec20dd38-ce7e-4fe2-8278-e44145d60f67)
