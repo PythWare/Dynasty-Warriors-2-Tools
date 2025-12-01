@@ -11,7 +11,7 @@ Main Menu:
 
 ![m1](https://github.com/user-attachments/assets/ec20dd38-ce7e-4fe2-8278-e44145d60f67)
 
-Stage Editor(supports custom battles, image shows what's able to be edited):
+Stage Editor(supports custom battles, image shows what's able to be edited, most stages have unused slots by default so you can edit them to be usable in the stage editor, each stage supports 512 slots with each map being able to have a max of 4,608 units across the map):
 
 ![m2](https://github.com/user-attachments/assets/35718917-d78f-4c3a-936a-28a9fa449f0f)
 
