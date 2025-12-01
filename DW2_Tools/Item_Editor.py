@@ -1,5 +1,5 @@
 # DW2_Tools/Item_Editor.py
-
+import os
 import tkinter as tk
 
 from .Utility import TheCheck, itemsoffset, DW2_BIN, ICON_DIR
