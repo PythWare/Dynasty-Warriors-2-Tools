@@ -1,9 +1,38 @@
 # Dynasty-Warriors-2-Tools
 Original Description:
 
-These are modding editors for Dynasty Warriors 2 I made, specifically for the US version of Dynasty Warriors 2. Credit goes to Michael, Passion Wagon, Aurvi, The Tempest, and myself for documentation on Dynasty Warriors 2. To use these editors you will need to place them in the same directory as your Dynasty Warriors 2 game, rename your game's file to "DW2.bin", have the icon files in the Icon_Files folder, and have the background PNG files in the backgrounds folder.
+These are GUI modding editors for Dynasty Warriors 2 I made, specifically for the US version of Dynasty Warriors 2. Credit goes to Michael, Passion Wagon, Aurvi, The Tempest, and myself for documentation on Dynasty Warriors 2. To use these editors you will need to place them in the same directory as your Dynasty Warriors 2 game, rename your game's file to "DW2.bin", have the icon files in the Icon_Files folder, and have the background PNG files in the backgrounds folder.
 
 You need Python installed. I suggest reading the text file because it has a thorough guide on using the editors.
 
-Main GUI Menu:
+Main Menu:
 
+![m1](https://github.com/user-attachments/assets/ec20dd38-ce7e-4fe2-8278-e44145d60f67)
+
+Stage Editor(supports custom battles, image shows what's able to be edited):
+
+![m2](https://github.com/user-attachments/assets/9dfe84de-7ea7-464c-b89d-7aafdcf672da)
+
+Coordinate Guider(gives a visual guide of where units spawn, auto marks when ran in stage editor to show current positions of units part of the battle, you can also manually type x/y coordinates or click anywhere on the minimap to get the x/y coordinates to use for modding where units spawn):
+
+![m3](https://github.com/user-attachments/assets/014ee04d-de70-4c96-a12b-ef62b42bcfb8)
+
+Unit Editor(supports modding unit data, image shows what is able to be modded):
+
+![m4](https://github.com/user-attachments/assets/1cfbfd75-2986-40e9-8b58-cb516d139e8e)
+
+Item Editor(supports changing some of the values of item data, more support may be added later on for changing Ids/effects):
+
+![m5](https://github.com/user-attachments/assets/3dc6b21a-5d87-4c8a-aa88-687e4af98313)
+
+Name Editor(supports changing the names of units and includes a check that prevents names that are too long for the game to handle):
+
+![m6](https://github.com/user-attachments/assets/a1737662-a5fa-4be9-9c87-a984328318d4)
+
+Bodyguard Editor(supports modding what your bodyguards upgrade/level up to as they progress, no longer are you limited to sword only bodyguards like how non-modded Dynasty Warriors 2 restricts you to):
+
+![m7](https://github.com/user-attachments/assets/ceb4892a-0bf8-4662-a0de-22b4f7a3ab17)
+
+Mod Manager(basic mod manager, not as advanced as my Dynasty Warriors 4 Hyper Mod Manager since I don't think many people mod DW2 but if enough ppl are interested i'll build an advanced one):
+
+![m8](https://github.com/user-attachments/assets/0f126975-8b96-4c69-833c-6a7106a625b2)
