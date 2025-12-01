@@ -160,7 +160,7 @@ class StageEditor(TheCheck):  # for modding stage/battles
             text="Submit values of current slot",
             command=self.submit_stage_values,
             height=5,
-            width=20,
+            width=22,
         ).place(x=1375, y=15)
         
         tk.Button(
@@ -608,3 +608,4 @@ class StageEditor(TheCheck):  # for modding stage/battles
                 text=f"Coord guide error: {e}",
                 fg="red",
             )
+
