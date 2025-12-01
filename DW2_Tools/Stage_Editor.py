@@ -157,7 +157,7 @@ class StageEditor(TheCheck):  # for modding stage/battles
         self.modname = tk.StringVar()
         tk.Button(
             self.root,
-            text="Submit values to DATA file",
+            text="Submit values of current slot",
             command=self.submit_stage_values,
             height=5,
             width=20,
