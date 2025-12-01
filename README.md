@@ -5,7 +5,7 @@ To use these editors you will need to place them in the same directory as your D
 
 You need Python installed.
 
-After you have Python installed, just double click main.py and then go from there.
+After you have Python installed, just double click main.py and then go from there. Make sure when using Stage Editor, Unit Editor, and Name Editor you click the submit value button before going to a different slot so that the values you mod are saved.
 
 Main Menu:
 
