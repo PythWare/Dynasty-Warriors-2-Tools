@@ -42,12 +42,3 @@ Mod Manager(basic mod manager, not as advanced as my Dynasty Warriors 4 Hyper Mo
 
 ![m8](https://github.com/user-attachments/assets/0f126975-8b96-4c69-833c-6a7106a625b2)
 
-Usage Terms (Non-Commercial, Personal Use Only):
-
-You may use these scripts and editors for personal, non-commercial purposes.
-
-You may not sell, monetize, or include this project in any paid product or service.
-
-You may not re-release modified versions of these scripts as your own project.
-
-This toolkit relies on assets and data from Dynasty Warriors 2, including map images which are © Koei Tecmo and/or their respective rights holders. Those assets are used here for fan-made modding tools and are not licensed for commercial use.
