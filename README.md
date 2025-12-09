@@ -1,7 +1,7 @@
 # Dynasty-Warriors-2-Tools
 These are GUI modding editors for Dynasty Warriors 2 I made, specifically for the US version of Dynasty Warriors 2. Credit goes to Michael, Passion Wagon, Aurvi, The Tempest, and myself for documentation on Dynasty Warriors 2. 
 
-To use these editors you will need to place them in the same directory as your Dynasty Warriors 2 game, rename your game's file to "DW2.bin", have the icon files in the Icon_Files folder within the DW2_Tools directory, and have the background PNG files in the backgrounds folder.
+To use these editors you will need to place them in the same directory as your Dynasty Warriors 2 game, rename your game's file to "DW2.bin", have the icon files in the Icon_Files folder within the DW2_Tools directory, and have the background PNG files in the backgrounds folder DW2_Tools directory. Same with maps folder, store within DW2_Tools directory if it isn't already setup that way.
 
 You need Python installed.
 
