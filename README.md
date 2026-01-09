@@ -9,6 +9,10 @@ After you have Python installed, just double click main.py and then go from ther
 
 If you have any questions/issues then let me know on here, reddit, or the modding discord server.
 
+# Update
+
+If you'd like to use the newest Stage Editing tool (Visual Guider) then view my other repository https://github.com/PythWare/Dynasty-Warriors-2-Visual-Guider
+
 Main Menu:
 
 ![m1](https://github.com/user-attachments/assets/ec20dd38-ce7e-4fe2-8278-e44145d60f67)
